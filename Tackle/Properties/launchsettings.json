@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Tackle (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Tackle (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
